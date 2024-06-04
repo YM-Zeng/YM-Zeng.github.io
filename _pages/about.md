@@ -4,13 +4,13 @@ title: Home
 permalink: /
 subtitle:
 
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    Chengdu University of Traditional Chinese Medicine<br/>
-    Email: <a href="mailto:2839583619@qq.com">2839583619@qq.com</a>
+profiles:
+  - align: right
+    image: prof_pic.jpg
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      Chengdu University of Traditional Chinese Medicine<br/>
+      Email: <a href="mailto:2839583619@qq.com">2839583619@qq.com</a>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
